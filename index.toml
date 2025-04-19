@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "4b08f7e9c85d53a973efc961d52bb2d6997a1debdf5df21c790dc34e420bca4e"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "02e9f7a97b66bdb78df33dc378393e533a229ab684ab936b09fcd4c8ea918a8c"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
-hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
+hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
 metafile = true
 
 [[files]]
@@ -13,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "ac2f2661d24bf5b143a54e2dea96f9266e9bb5041e3ec7df69f22a28e9c0ff7b"
 metafile = true
 
 [[files]]
@@ -82,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d1f561a89e7a4c5d98b6cbb25088ea2ad56ca1cff60118f2076912f49f8cfed3"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -121,6 +135,11 @@ hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "da756fc8e9d124170b0ddfb68815335de72832f6ff973f7798765615bc867fab"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
@@ -131,8 +150,18 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "89113d0e4c7e47ffe340d550e78432cd8b2185672c862ced2e13f47e4984ebcd"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "7308954ec68ead6840f1c5774a7b1465c0f8c8f8cf110ee8ba77952229930ffa"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
@@ -186,6 +215,16 @@ hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "a4276fd2d536042e284bb988bd41827b5b50d4f95a5f113963e826ae0f71ee77"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b220657b999e9c1243556d05e170819e71e8329014adb50e8eaab9c1132fa815"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
@@ -206,6 +245,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
+metafile = true
+
+[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
 metafile = true
@@ -221,8 +265,18 @@ hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "e738806b1099f2b4b950ec57816582f3b7afd7a0074a250e3f120aa78350bc7e"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
@@ -261,8 +315,18 @@ hash = "e5a707735cb2432e78213900f02cb020fd8fb38bf134c3118fc3f4f8d208c077"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
 metafile = true
 
 [[files]]
@@ -291,13 +355,13 @@ hash = "6e06c71124bd06e1e489c9ad5034046a29344eddb599058d7c4cb2e5703bad1a"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+file = "mods/supplementaries.pw.toml"
+hash = "e0bdc9a026d55bda0ad82b3177fa323f14c239eef9921a493984f865e6fde500"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "a2e060bbe14890f250228b029b6aeff6b240c64d554893adcb0d8f628b74c19a"
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
