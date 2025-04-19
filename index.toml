@@ -340,6 +340,11 @@ hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
 
 [[files]]
+file = "mods/shifting-wares.pw.toml"
+hash = "491d175822bc94b76213c522c62c2c46957248c246208078f326abf168f6421c"
+metafile = true
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
 metafile = true
