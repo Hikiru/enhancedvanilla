@@ -6,13 +6,33 @@ hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
+file = "mods/bia.pw.toml"
+hash = "4ce89d53bd5f425d89b70322e77f87a2026b95e6854dc8a076cc19333115a813"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
 
 [[files]]
@@ -31,8 +51,18 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
 metafile = true
 
 [[files]]
@@ -101,8 +131,18 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "7308954ec68ead6840f1c5774a7b1465c0f8c8f8cf110ee8ba77952229930ffa"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e6b1db1ab68060617a18d798dc6041533bf58044a078df62ae09fab803eb6e4b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
 metafile = true
 
 [[files]]
@@ -123,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
 
 [[files]]
@@ -151,6 +196,11 @@ hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
@@ -176,6 +226,16 @@ hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "c8e01ce7c80b5f548c20ab40b253eb518cd30e66901007d94c31d27b564ba870"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "b1b1f2920590e03548f0b43ae8d16167ad5a93e67ce06d4c747d5486a08a1c4f"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "d055718e942dde85b22d4baabdc26e9744e4556304f10c70cc2e434b2806140a"
 metafile = true
@@ -191,13 +251,28 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
+metafile = true
+
+[[files]]
+file = "mods/repo-heads.pw.toml"
+hash = "e5a707735cb2432e78213900f02cb020fd8fb38bf134c3118fc3f4f8d208c077"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a0882efec4154408daa410077e66293a8da4a8ffaf1610fdd4209eae5bc4d729"
+hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "065a6c92f489bce0ef6b27f0b05acde22920c5f5f15414171890ec5ea375fe16"
 metafile = true
 
 [[files]]
@@ -208,6 +283,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "6e06c71124bd06e1e489c9ad5034046a29344eddb599058d7c4cb2e5703bad1a"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "a2e060bbe14890f250228b029b6aeff6b240c64d554893adcb0d8f628b74c19a"
 metafile = true
 
 [[files]]
