@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "4b08f7e9c85d53a973efc961d52bb2d6997a1debdf5df21c790dc34e420bca4e"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "02e9f7a97b66bdb78df33dc378393e533a229ab684ab936b09fcd4c8ea918a8c"
 metafile = true
@@ -87,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
@@ -207,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix-plus.pw.toml"
+hash = "ef8dd74a596bd5ed6defdbb88d3dc1c61df53de1bd2871870d385e62591896b8"
 metafile = true
 
 [[files]]
@@ -377,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
