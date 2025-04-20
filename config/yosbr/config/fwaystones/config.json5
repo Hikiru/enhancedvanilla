@@ -1,14 +1,17 @@
 {
+	"worldgen": {
+		"unbreakable_generated_waystones": true,
+	},
 	"teleportation_cost": {
 		"cost_type": "LEVEL",
 		"base_cost": 5,
 	},
 	"teleportation_cooldown": {
-		"cooldown_ticks_when_hurt": 400,
-		"cooldown_ticks_from_abyss_watcher": 12000,
-		"cooldown_ticks_from_pocket_wormhole": 12000,
-		"cooldown_ticks_from_local_void": 6000,
-		"cooldown_ticks_from_void_totem": 0,
+		"cooldown_ticks_when_hurt": 0,
+		"cooldown_ticks_from_abyss_watcher": 6000,
+		"cooldown_ticks_from_pocket_wormhole": 6000,
+		"cooldown_ticks_from_local_void": 3000,
+		"cooldown_ticks_from_void_totem": 3000,
 		"cooldown_ticks_from_waystone": 0
 	},
 }

@@ -13,6 +13,7 @@ joinedFirstServer:true
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.bridgingmod.toggle_bridging:key.keyboard.unknown
 key_key.crawl:key.keyboard.r
 key_talkingheads.keybinding.modToggle:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.comma
