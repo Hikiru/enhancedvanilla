@@ -33,6 +33,10 @@ file = "config/yosbr/options.txt"
 hash = "6be674cfbd4f04fc11e8e74e956322e2ad7093e6a001c8413439dab6801b86b4"
 
 [[files]]
+file = "icon.png"
+hash = "7c5cdf41d2b95201d7b3d8b6b90d888b56edf3543dc8faf2ef3c46127db389c2"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "02e9f7a97b66bdb78df33dc378393e533a229ab684ab936b09fcd4c8ea918a8c"
 metafile = true
@@ -85,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "24839d5359a47def2ebe1a9ff9dee26a77f3480ff7c5b29f7db2080e3d0ad58d"
 metafile = true
 
 [[files]]
