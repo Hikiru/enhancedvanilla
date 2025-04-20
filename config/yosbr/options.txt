@@ -20,3 +20,7 @@ key_key.hide_icons:key.keyboard.right.bracket
 key_key.voice_chat:key.keyboard.left.bracket
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
+soundCategory_master:0.8523722061258279
+soundCategory_music:0.3539062499999999
+soundCategory_record:0.5074878961267605
+soundCategory_ambient:0.5004401408450704
