@@ -57,6 +57,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "0e66a81c9ce59646be9dbadfeb3a83214746cb613b5c141755a66d68fa6a88aa"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "ac2f2661d24bf5b143a54e2dea96f9266e9bb5041e3ec7df69f22a28e9c0ff7b"
 metafile = true
