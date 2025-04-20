@@ -1,16 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "1db0468d8b29ab9e75b3e6bb1e552d6439a0e0f70736f1bc9673612d5e60b92e"
+
+[[files]]
 file = "config/yosbr/config/fwaystones/config.json5"
 hash = "986bf1c6cb62754a303c984816ea6c2a3d710844dd948296eae7d7843de88618"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3027c2ed9a4242626a36c2e5af9722ad52b11044cc06115590dc0040d0efb26a"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "56c4abfd5d7f1fb4ac1896b63be9f6572cec748b8181f7f82077c7207cb18bf9"
+
+[[files]]
+file = "config/yosbr/config/sleepwarp.json"
+hash = "4d987dc745907af79ff39f36b071d82832e3a1651275a20349a31068a94e563e"
+
+[[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "5a85b7d5762a184a1b9f5e9e2be191637a7ac4069308bd563f19a12b3b60a523"
 
 [[files]]
 file = "config/yosbr/config/stack-to-nearby-chests/mod-options.json"
 hash = "b0c1643a9f2a8f2bd9fb5f15c4f721edc77842c98e1f236e7f0f88f25b55bab8"
 
 [[files]]
+file = "config/yosbr/config/talkingheads.json"
+hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "c6cb3c481cb11b71c4e45d221d7bc8410e1c4ad425d0fa846d7510c19cc799fb"
+hash = "5ae911d312297fb9d554cc0df707809b4b765a5f244012da1efba60d9be728c6"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -115,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
 metafile = true
 
 [[files]]
@@ -545,4 +574,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
 hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
 metafile = true
