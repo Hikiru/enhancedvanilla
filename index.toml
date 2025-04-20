@@ -157,6 +157,11 @@ hash = "2cc326bc57d5f319403763d5f32982e281dd2e8e096d4245098434be6bf33d9f"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "297f9bb25086de00c254ad685aae335634ad9e2c98e4fa3e01c5daf62942dec3"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
 metafile = true
@@ -249,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "5f67c621095cc9e107d2a379b3fca4bd844f51f9a8e11a560daf107bb0320f03"
 metafile = true
 
 [[files]]
