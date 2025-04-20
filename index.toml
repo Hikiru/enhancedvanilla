@@ -497,13 +497,13 @@ hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+file = "mods/true-ending.pw.toml"
+hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+file = "mods/wwoo.pw.toml"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
 metafile = true
 
 [[files]]
