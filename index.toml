@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
+hash = "f6a83a7ff2e7c4bd97ffa6f279370167db1d8b9742ae7d1500ad2d7a0bf0074e"
 metafile = true
 
 [[files]]
@@ -327,11 +327,6 @@ hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
-file = "mods/mastercutter.pw.toml"
-hash = "eda5b091e0f753f42c557e5ef2a1efba2b17c11e44115d93f90c246290627146"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
@@ -358,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a4276fd2d536042e284bb988bd41827b5b50d4f95a5f113963e826ae0f71ee77"
+hash = "2f547db0c7fa85671c5fb3da4993789c0a093350338e8a1f9b8ba3519d44ac65"
 metafile = true
 
 [[files]]
@@ -559,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "72dd22f86ff701f3f0871c4c595f18123f5448c96655c9cd8d5b334fb6ee6656"
 metafile = true
 
 [[files]]
