@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "1db0468d8b29ab9e75b3e6bb1e552d6439a0e0f70736f1bc9673612d5e60b92e"
+hash = "72caf15595b8ee2b14b9022217563a709685b65cbc5c2e0b82ba583278776b4f"
 
 [[files]]
 file = "config/yosbr/config/fwaystones/config.json5"
@@ -30,7 +30,7 @@ hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "94e4248f41bd1268ee0b9314f350c79e17a9f5c2fdaf2344893bd4ea0419de3e"
+hash = "35370f33b332442b9f28b1ad85d372624160297753c15f3317743dc1ac97ce9e"
 
 [[files]]
 file = "icon.png"
