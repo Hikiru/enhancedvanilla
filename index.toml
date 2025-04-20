@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundle-recipe.pw.toml"
-hash = "24839d5359a47def2ebe1a9ff9dee26a77f3480ff7c5b29f7db2080e3d0ad58d"
+hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
 metafile = true
 
 [[files]]

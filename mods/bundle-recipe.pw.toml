@@ -1,6 +1,6 @@
 name = "Bundle Recipe"
 filename = "bundle-recipe-1.21.1-v1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Hkc2j5Bf/versions/lt52vHA3/bundle-recipe-1.21.1-v1.1.0.jar"
