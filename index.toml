@@ -83,6 +83,11 @@ hash = "d99fd98e6daf4ab8474c727d3e0a653ac800a714b3ef5799e7950129b4f255fe"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
+metafile = true
+
+[[files]]
 file = "mods/camp-fires-cook-mobs.pw.toml"
 hash = "788a4c6865f5cac24cb9e9ff940d58b75c663ba854c4f1a010ae2d5ebc9353dd"
 metafile = true
