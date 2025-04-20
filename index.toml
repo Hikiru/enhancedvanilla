@@ -127,6 +127,16 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/craft-saddle.pw.toml"
+hash = "af30f0b72aa91d66ed0054c3d8502858bcb4f1e478114f3880d3e1970df147f8"
+metafile = true
+
+[[files]]
+file = "mods/craftable-name-tag.pw.toml"
+hash = "2cc326bc57d5f319403763d5f32982e281dd2e8e096d4245098434be6bf33d9f"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
 metafile = true
@@ -514,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
 metafile = true
 
 [[files]]
