@@ -6,7 +6,7 @@ hash = "1db0468d8b29ab9e75b3e6bb1e552d6439a0e0f70736f1bc9673612d5e60b92e"
 
 [[files]]
 file = "config/yosbr/config/fwaystones/config.json5"
-hash = "986bf1c6cb62754a303c984816ea6c2a3d710844dd948296eae7d7843de88618"
+hash = "b719721335c148dd32550f867a27e2dcf974116b4577cc81c2e0645df1c78feb"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -15,10 +15,6 @@ hash = "3027c2ed9a4242626a36c2e5af9722ad52b11044cc06115590dc0040d0efb26a"
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "56c4abfd5d7f1fb4ac1896b63be9f6572cec748b8181f7f82077c7207cb18bf9"
-
-[[files]]
-file = "config/yosbr/config/sleepwarp.json"
-hash = "4d987dc745907af79ff39f36b071d82832e3a1651275a20349a31068a94e563e"
 
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
@@ -34,11 +30,16 @@ hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5ae911d312297fb9d554cc0df707809b4b765a5f244012da1efba60d9be728c6"
+hash = "6be674cfbd4f04fc11e8e74e956322e2ad7093e6a001c8413439dab6801b86b4"
 
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "02e9f7a97b66bdb78df33dc378393e533a229ab684ab936b09fcd4c8ea918a8c"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "5041d4be9d64017c7891f46878b7fa0d528c277e45c1d5e6be74b22abead7028"
 metafile = true
 
 [[files]]
@@ -144,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "a07f5a28192fcedba35c2db7472b322b381827db29372393e9429ef13c056020"
 metafile = true
 
 [[files]]
@@ -453,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
+hash = "85a16f6d04a20d0ec7284621f1ab51407ce5fb08f260f71831498a786c9bbcc7"
 metafile = true
 
 [[files]]
@@ -488,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "061b981601e93d817b36a4879183f50ec5fe9fbcb277854e2adc460d2ed1a340"
+hash = "9076c21b89542dc4fd2392c3f6bb6acc15ebfb7ed7c7c5b82ef3c400649fa272"
 metafile = true
 
 [[files]]
@@ -538,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
