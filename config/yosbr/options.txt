@@ -1,5 +1,4 @@
 version:3955
-toggleCrawl:true
 enableVsync:false
 fov:0.5
 guiScale:3
@@ -14,7 +13,7 @@ joinedFirstServer:true
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.crawl:key.keyboard.b
+key_key.crawl:key.keyboard.r
 key_talkingheads.keybinding.modToggle:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.comma
 key_key.hide_icons:key.keyboard.right.bracket
