@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/fwaystones/config.json5"
+hash = "986bf1c6cb62754a303c984816ea6c2a3d710844dd948296eae7d7843de88618"
+
+[[files]]
+file = "config/yosbr/config/stack-to-nearby-chests/mod-options.json"
+hash = "b0c1643a9f2a8f2bd9fb5f15c4f721edc77842c98e1f236e7f0f88f25b55bab8"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c6cb3c481cb11b71c4e45d221d7bc8410e1c4ad425d0fa846d7510c19cc799fb"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "02e9f7a97b66bdb78df33dc378393e533a229ab684ab936b09fcd4c8ea918a8c"
 metafile = true
@@ -128,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
 metafile = true
 
 [[files]]
@@ -373,11 +390,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
-metafile = true
-
-[[files]]
-file = "mods/repo-heads.pw.toml"
-hash = "e5a707735cb2432e78213900f02cb020fd8fb38bf134c3118fc3f4f8d208c077"
 metafile = true
 
 [[files]]
