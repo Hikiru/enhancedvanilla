@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "talkingheads-1.0.6+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/L52eFSYm/talkingheads-1.0.6%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e008e9a218fad4756ea414c20427947dd81f7180ce4d2136fad56602c3a26f8c2a8224bdeb45e06c6cf07f34e292faaaa6c2944ac7ffa7007fba4efd8172bb99"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "L52eFSYm"
