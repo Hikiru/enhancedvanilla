@@ -1,12 +1,12 @@
 name = "KermitCraft II"
 author = "Hikiru"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02fd7eaaed3e78b942f144ee73f27b668c82016c327a290e26afb01b821b003d"
+hash = "b1abee28543eb593d37a176d3991d36ec326089fe0e3978c60219d9c14a08ff9"
 
 [versions]
 fabric = "0.16.14"
