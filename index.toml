@@ -337,6 +337,11 @@ hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6c9f10bdf4115e50a103edd700902ba55f34b1321fa58a692d35e97cc110d511"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
@@ -562,6 +567,16 @@ hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "784d31c38a90243c105fcbb5c7ccaae37c920eb91a4637b1f2dfb268ae1af4ee"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
 metafile = true
@@ -574,11 +589,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
