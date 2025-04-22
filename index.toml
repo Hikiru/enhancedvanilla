@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
+hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
 metafile = true
 
 [[files]]
@@ -92,8 +92,8 @@ hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
 metafile = true
 
 [[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
+file = "mods/bundle-backportish.pw.toml"
+hash = "8a1905f735611d2b729daa6f3e11abd3c7c44132ae2552869714ff2429c4c6a1"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6c9f10bdf4115e50a103edd700902ba55f34b1321fa58a692d35e97cc110d511"
+hash = "e903d9958d442f8cbd2dd05806a85e59a7e8a7d499a0b016853b2fe90cd98615"
 metafile = true
 
 [[files]]
