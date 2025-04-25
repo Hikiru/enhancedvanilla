@@ -1,0 +1,13 @@
+name = "item placer"
+filename = "itemplacer-fabric-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qm0tEl8v/versions/BugmRpOk/itemplacer-fabric-1.9.1.jar"
+hash-format = "sha512"
+hash = "46239fd6772435944e88b577cbd24db77e88b36da77860ccde89db07a81ee541a49f21f81edc080ace003a77b02bcd8e09fa6fe8ebbfbac6fa5b3d64148de072"
+
+[update]
+[update.modrinth]
+mod-id = "qm0tEl8v"
+version = "BugmRpOk"
