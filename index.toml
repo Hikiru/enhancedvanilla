@@ -10,7 +10,7 @@ hash = "6bb1461b7393d185ecdb0c0427fe1316ee53f5bdf8e7142810e4b04cdf9b3060"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "3027c2ed9a4242626a36c2e5af9722ad52b11044cc06115590dc0040d0efb26a"
+hash = "5be76990b03938de5859b47f3f2bbaf5fb71c5affeaa035da2554a58a8bffdef"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
@@ -19,6 +19,10 @@ hash = "56c4abfd5d7f1fb4ac1896b63be9f6572cec748b8181f7f82077c7207cb18bf9"
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "5a85b7d5762a184a1b9f5e9e2be191637a7ac4069308bd563f19a12b3b60a523"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "7d8d11732f308b3415f3633ba04aad2fce8af83edd7ceeec4ff5decd41a79676"
 
 [[files]]
 file = "config/yosbr/config/stack-to-nearby-chests/mod-options.json"
@@ -30,7 +34,7 @@ hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "35370f33b332442b9f28b1ad85d372624160297753c15f3317743dc1ac97ce9e"
+hash = "e7a769839d5e2151fec604207e970b4fa00421d8ae42083847bebd7696d0aa3e"
 
 [[files]]
 file = "icon.png"
@@ -48,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
+hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
@@ -489,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/player-locator-plus.pw.toml"
+hash = "df659a008602f65d693769b9c889a38cfc5c30cdae3d048d9e6397c046a7d998"
 metafile = true
 
 [[files]]
