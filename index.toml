@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
+hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "454b1d682ff4001931c29b4ba4df76c13c86749f4a9374fcff889d4fcb523d32"
+hash = "bf51464494d007e13d4b421528c4ab1a6c17876908d62c5a3555dfad283f9d3c"
 metafile = true
 
 [[files]]
