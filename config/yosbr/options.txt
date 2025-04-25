@@ -3,7 +3,7 @@ enableVsync:false
 fov:0.5
 guiScale:3
 renderClouds:"false"
-maxFps:260
+maxFps:120
 renderDistance:10
 operatorItemsTab:true
 darkMojangStudiosBackground:true
@@ -16,6 +16,9 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.bridgingmod.toggle_bridging:key.keyboard.unknown
 key_key.crawl:key.keyboard.r
+key_Place item:key.keyboard.b
+key_key.niftycarts.action:key.keyboard.v
+key_key.smallships.ship_sail:key.keyboard.j
 key_talkingheads.keybinding.modToggle:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.comma
 key_key.hide_icons:key.keyboard.right.bracket
@@ -23,6 +26,7 @@ key_key.voice_chat:key.keyboard.left.bracket
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 soundCategory_master:0.8523722061258279
-soundCategory_music:0.3539062499999999
+soundCategory_music:0.2535211267605634
 soundCategory_record:0.5074878961267605
+soundCategory_player:0.704225352112676
 soundCategory_ambient:0.5004401408450704
