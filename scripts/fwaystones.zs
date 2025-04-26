@@ -1,4 +1,3 @@
-<recipetype:farmersdelight:cutting>.remove(<item:minecraft:amethyst_shard>);
 <recipetype:minecraft:crafting>.remove(<item:fwaystones:abyss_watcher>);
 <recipetype:minecraft:crafting>.remove(<item:fwaystones:local_void>);
 
