@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# Exclude exported server pack
+/mc

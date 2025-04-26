@@ -126,6 +126,11 @@ hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
 metafile = true
 
 [[files]]
+file = "mods/chestprotection.pw.toml"
+hash = "e56fd99b43339d7ea00162d223d8415d4dc020c53838b57bfc90391b8c77102a"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
 metafile = true

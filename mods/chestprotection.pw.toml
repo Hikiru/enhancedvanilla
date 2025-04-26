@@ -1,0 +1,13 @@
+name = "ChestProtection"
+filename = "chestprotection-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fEwhuw0Y/versions/U9oiWbLT/chestprotection-1.0.1.jar"
+hash-format = "sha512"
+hash = "64188200ab79d83511639b3e9f0b92093c63198a508b4d8befb20c5016379e56d92f18ed387b790258a3ddcee208afede31eefe6825fa3680e733facf33640ec"
+
+[update]
+[update.modrinth]
+mod-id = "fEwhuw0Y"
+version = "U9oiWbLT"
