@@ -71,6 +71,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+metafile = true
+
+[[files]]
 file = "mods/be-style-wither.pw.toml"
 hash = "0e66a81c9ce59646be9dbadfeb3a83214746cb613b5c141755a66d68fa6a88aa"
 metafile = true
